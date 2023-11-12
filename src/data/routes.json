@@ -1,0 +1,186 @@
+[
+    {
+        "depart": "BLR",
+        "dest": "IXA",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "5000"
+    },
+    {
+        "depart": "IXA",
+        "dest": "BLR",
+        "leave": "18:05",
+        "reach": "21:05",
+        "eta": "3h",
+        "price": "9000"
+    },
+    {
+        "depart": "KOC",
+        "dest": "HYD",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "7000"
+    },
+    {
+        "depart": "HYD",
+        "dest": "KOC",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "3000"
+    },
+    {
+        "depart": "CHE",
+        "dest": "HYD",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "8000"
+    },
+    {
+        "depart": "HYD",
+        "dest": "CHE",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "7500"
+    },
+    {
+        "depart": "CHE",
+        "dest": "MUM",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "5300"
+    },
+    {
+        "depart": "MUM",
+        "dest": "CHE",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "5900"
+    },
+    {
+        "depart": "RAJ",
+        "dest": "MUM",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "6200"
+    },
+    {
+        "depart": "MUM",
+        "dest": "RAJ",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "8400"
+    },
+    {
+        "depart": "RAJ",
+        "dest": "DEL",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "7100"
+    },
+    {
+        "depart": "DEL",
+        "dest": "RAJ",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "2800"
+    },
+    {
+        "depart": "KOC",
+        "dest": "DEL",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "3100"
+    },
+    {
+        "depart": "DEL",
+        "dest": "KOC",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "5100"
+    },
+    {
+        "depart": "KOC",
+        "dest": "KOL",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "4400"
+    },
+    {
+        "depart": "KOL",
+        "dest": "KOC",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "3300"
+    },
+    {
+        "depart": "RAJ",
+        "dest": "KOL",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "6600"
+    },
+    {
+        "depart": "KOL",
+        "dest": "RAJ",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "6700"
+    },
+    {
+        "depart": "RAJ",
+        "dest": "PUN",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "3750"
+    },
+    {
+        "depart": "KOL",
+        "dest": "PUN",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "8200"
+    },
+    {
+        "depart": "RAJ",
+        "dest": "BLR",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "3700"
+    },
+    {
+        "depart": "KOL",
+        "dest": "DEL",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "3h",
+        "price": "6700"
+    },
+    {
+        "depart": "RAJ",
+        "dest": "BLR",
+        "leave": "16:05",
+        "reach": "19:05",
+        "eta": "8h",
+        "price": "5900"
+    }
+]

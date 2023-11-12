@@ -1,0 +1,52 @@
+[
+    {
+        "key": 1,
+        "code": "IXA",
+        "name": "Agartala Int Airport"
+    },
+    {
+        "key": 2,
+        "code": "DEL",
+        "name": "Indira Gandhi Int Airport Delhi"
+    },
+    {
+        "key": 3,
+        "code": "KOL",
+        "name": "Kolkata Int Airport"
+    },
+    {
+        "key": 4,
+        "code": "MUM",
+        "name": "Chhatrapati Shivaji Mumbai"
+    },
+    {
+        "key": 5,
+        "code": "BLR",
+        "name": "Kempegowda Bengaluru"
+    },
+    {
+        "key": 6,
+        "code": "PUN",
+        "name": "Pune Int Airport"
+    },
+    {
+        "key": 7,
+        "code": "RAJ",
+        "name": "Rajkot Int Airport"
+    },
+    {
+        "key": 8,
+        "code": "CHE",
+        "name": "Chennai Int Airport"
+    },
+    {
+        "key": 9,
+        "code": "HYD",
+        "name": "Hyderabad Int Airport"
+    },
+    {
+        "key": 10,
+        "code": "KOC",
+        "name": "Kochi Int Airport"
+    }
+]
