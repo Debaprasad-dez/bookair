@@ -39,22 +39,22 @@
 }
 
 .date-picker:hover {
-  background: rgba(40, 40, 250, .28);
+  background: rgba(40, 40, 250, 0);
 }
 
 .date-picker:active {
-  background: rgba(40, 40, 250, .2);
+  background: rgba(40, 40, 250, 0);
 }
 
 .date-picker:focus>input[type="date"],
 .date-picker:focus-within>input[type="date"] {
-  color: #00f;
+  color: rgba(0, 0, 255, 0);
   text-decoration: none;
 }
 
 .date-picker:focus,
 .date-picker:focus-within {
-  box-shadow: 0 0 0 .1rem #00f;
+  box-shadow: 0 0 0 .1rem rgba(0, 0, 255, 0);
 }
 
 .date-picker>.placeholder::after {
