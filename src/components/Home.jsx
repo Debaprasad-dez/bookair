@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom";
 
 function Home(props) {
+  const date = new Date();
+  const defaultValue = date.toLocaleDateString("en-CA");
   function handleChange(e) {
     props.changeDate(e.target.value);
   }
@@ -101,15 +103,17 @@ function Home(props) {
             className="p-1 pt-3 m-0"
             style={{ background: "#E3F0FF", width: "100%" }}
           >
-            <input
-              className="w-100 p-3 border-0"
-              style={{ background: "#E3F0FF" }}
-              type="date"
-              name=""
-              id=""
-              value={props.date}
-              onChange={handleChange}
-            />
+            <div className="date-picker">
+              <input
+                className=""
+                type="date"
+                name=""
+                id=""
+                defaultValue={defaultValue}
+                placeholder="23-11-2024"
+                onChange={handleChange}
+              />
+            </div>
           </div>
         </div>
         <br />

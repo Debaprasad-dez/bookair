@@ -12,13 +12,15 @@ import Flights from "./components/Flights";
 
 function App() {
   let dateToday = new Date();
+  let formattedDate = `${dateToday.getDate()}-${dateToday.getMonth()}-${dateToday.getFullYear()}`;
 
   const [depart, setDepart] = useState({ code: "--", name: "Select city" });
   const [dest, setDest] = useState({ code: "--", name: "Select city" });
-  const [date, setDate] = useState("");
+  const [date, setDate] = useState(formattedDate);
   const [traveller, setTraveller] = useState({ adult: 1, child: 0 });
   const [flights, setFlights] = useState(routes);
   const [airports, setAirports] = useState(data);
+  console.log(formattedDate);
 
   function setDeparture(city) {
     setDepart(city);
@@ -62,7 +64,7 @@ function App() {
   function resetAll() {
     setDepart({ code: "--", name: "Select city" });
     setDest({ code: "--", name: "Select city" });
-    setDate("");
+    setDate(formattedDate);
     setTraveller({ adult: 1, child: 0 });
     setFlights(routes);
     setAirports(data);
