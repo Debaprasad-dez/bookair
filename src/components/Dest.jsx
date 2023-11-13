@@ -15,7 +15,6 @@ function Destination(props) {
           </h1>
         </Link>
         <br />
-        <br />
         <form action="">
           <label htmlFor="destinationCity" className="form-label">
             Select Destination

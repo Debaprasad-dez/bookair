@@ -19,7 +19,6 @@ function Traveller(props) {
 
         <label>Travellers</label>
         <br />
-        <br />
         <div
           className="pt-3 px-2 mb-2"
           style={{

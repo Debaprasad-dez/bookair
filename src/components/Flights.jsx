@@ -18,7 +18,6 @@ function Flights(props) {
           <h4> Back to search</h4>
         </Link>
         <br />
-        <br />
         <label>Results for</label>
         <h1>
           <b>{props.depart.code} </b>{" "}

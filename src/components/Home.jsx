@@ -18,7 +18,6 @@ function Home(props) {
           </h1>
         </Link>
         <br />
-        <br />
         <div className="row">
           <div className="col-5 pe-0">
             <span
