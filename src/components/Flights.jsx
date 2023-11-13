@@ -6,8 +6,6 @@ function Flights(props) {
     <div>
       <div className="container">
         <br />
-        <br />
-        <br />
 
         <h1 className="" style={{ fontWeight: "700", color: "#010101" }}>
           MoveWith<span className="text-primary">Air</span>

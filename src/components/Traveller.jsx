@@ -7,8 +7,6 @@ function Traveller(props) {
     <div>
       <div className="container">
         <br />
-        <br />
-        <br />
         <Link
           onClick={() => props.resetAll()}
           style={{ textDecoration: "none" }}
@@ -18,7 +16,6 @@ function Traveller(props) {
             MoveWith<span className="text-primary">Air</span>
           </h1>
         </Link>
-        <br />
 
         <label>Travellers</label>
         <br />

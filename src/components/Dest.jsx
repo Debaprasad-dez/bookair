@@ -5,8 +5,6 @@ function Destination(props) {
     <div>
       <div className="container">
         <br />
-        <br />
-        <br />
         <Link
           onClick={() => props.resetAll()}
           style={{ textDecoration: "none" }}
@@ -16,7 +14,6 @@ function Destination(props) {
             MoveWith<span className="text-primary">Air</span>
           </h1>
         </Link>
-        <br />
         <br />
         <br />
         <form action="">
