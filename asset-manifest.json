@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bookair/static/css/main.519dabe7.css",
-    "main.js": "/bookair/static/js/main.d5abc2dd.js",
+    "main.css": "/bookair/static/css/main.43dc84e0.css",
+    "main.js": "/bookair/static/js/main.17c665cc.js",
     "static/js/787.8eb1130d.chunk.js": "/bookair/static/js/787.8eb1130d.chunk.js",
     "index.html": "/bookair/index.html",
     "static/media/plane.svg": "/bookair/static/media/plane.727b3fdad7df95e1dbe811e23aa374b7.svg",
-    "main.519dabe7.css.map": "/bookair/static/css/main.519dabe7.css.map",
-    "main.d5abc2dd.js.map": "/bookair/static/js/main.d5abc2dd.js.map",
+    "main.43dc84e0.css.map": "/bookair/static/css/main.43dc84e0.css.map",
+    "main.17c665cc.js.map": "/bookair/static/js/main.17c665cc.js.map",
     "787.8eb1130d.chunk.js.map": "/bookair/static/js/787.8eb1130d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.519dabe7.css",
-    "static/js/main.d5abc2dd.js"
+    "static/css/main.43dc84e0.css",
+    "static/js/main.17c665cc.js"
   ]
 }
